@@ -1,7 +1,7 @@
-- 👋 bonjour je suis sébastien 
-- 👀 Actuellement je fais une formation de developpeur web sur 2 ans
-- 💞️ je travaille sur un projet à rendre php mysql js 
-- 📫 How to reach me ...
+- 👋 bonjour je suis sébastien je vis à la Réunion
+- 👀 Actuellement je fais une formation de développeur web sur 2 ans
+- 💞️ 
+- 📫 
 
 <!---
 sebtech-run/sebtech-run is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
