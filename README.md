@@ -1,5 +1,5 @@
-- 👋 bonjour je suis sébastien je vis à la Réunion
-- 👀 Actuellement je fais une formation de développeur web sur 2 ans
+- 👋 bonjour à tous 
+- 👀 Passionné par le web et l'informatique en général,actuellement je fais une formation de développeur web sur 2 ans 
 - 💞️ 
 - 📫 
 
